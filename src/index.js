@@ -10,7 +10,7 @@ import reducer from './reducers'
 import App from './containers/App'
 
 import 'bootstrap/dist/css/bootstrap.css'
-import './styles.css'
+import './styles.scss'
 
 const loggerMiddleware = createLogger();
 
