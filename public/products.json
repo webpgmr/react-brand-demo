@@ -2,8 +2,8 @@
   "products": [{
       "id": "1",
       "name": "Brand1",
-      "image": "images/Cherry.png",
-      "price": "$1.99",
+      "image": "images/brand1.png",
+      "price": "1233",
       "colors": ["red", "green", "blue"],
       "condition": "Fresh",
       "description": "brand 1 info"
@@ -11,8 +11,8 @@
     {
       "id": "2",
       "name": "brand2",
-      "image": "images/Orange.png",
-      "price": "$2.99",
+      "image": "images/brand2.png",
+      "price": "2312",
       "colors": ["green", "blue"],
       "condition": "Fresh",
       "description": "brand 2 info"
@@ -20,8 +20,8 @@
     {
       "id": "3",
       "name": "Brand3",
-      "image": "images/Nuts.png",
-      "price": "$1.00",
+      "image": "images/brand3.png",
+      "price": "234234",
       "colors": ["red"],
       "condition": "Fresh",
       "description": "brand 3 info"
@@ -29,8 +29,8 @@
     {
       "id": "4",
       "name": "Brand4",
-      "image": "images/Strawberry.png",
-      "price": "$1.49",
+      "image": "images/brand4.png",
+      "price": "2342",
       "colors": ["blue"],
       "condition": "Fresh",
       "description": "brand 4 info"
