@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "name": "brand2",
+      "name": "Brand2",
       "image": "images/brand2.png",
       "price": "2312",
       "colors": ["green", "blue"],

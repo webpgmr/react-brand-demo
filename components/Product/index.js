@@ -4,7 +4,6 @@ import './styles.scss'
 const Product = ({product, compare}) =>
     <div key={product.id} className="col-sm-6 col-md-3">
         <div className={"product " + (product.compare ? "compare" : "")} >
-            <img src={product.image} alt={product.name} />
             <div className="image_overlay"/>
             <div className="view_details" onClick={() => compare(product)}>
               {product.compare ? "Remove" : "Compare"}
